@@ -1,0 +1,8 @@
+addFilter("W: no-manual-page-for-binary")
+addFilter("E: unused-rpmlintrc-filter")
+addFilter("W: invalid-license")
+addFilter("W: invalid-url")
+addFilter("W: non-coherent-filename")
+addFilter("E: incoherent-version-in-name")
+addFilter("W: incoherent-version-in-name")
+addFilter("W: position-independent-executable-suggested")
