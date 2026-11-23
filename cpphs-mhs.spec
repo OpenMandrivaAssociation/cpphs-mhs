@@ -1,4 +1,5 @@
 %global debug_package %{nil}
+%global _find_debuginfo_opts --no-ar-files
 Summary:	cpphs 1.20.9 compiled by MicroHs
 Name:		cpphs-mhs
 Version:	1.20.9
